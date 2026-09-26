@@ -1,6 +1,4 @@
-/* =========================
-   FUNCIÓN DE SALIDA GLOBAL
-========================= */
+/* ==== FUNCIÓN DE SALIDA GLOBAL ==== */
 function exitPage() {
   if (window.history.length > 1) {
     window.history.back();
@@ -9,25 +7,20 @@ function exitPage() {
   }
 }
 
-/* =========================
-   TECLA ESC (PC)
-========================= */
+/* ==== TECLA ESC (PC) ==== */
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") {
     exitPage();
   }
 });
 
-/* =========================
-   BOTÓN < (CELULAR / ANDROID)
-========================= */
+/* ==== BOTÓN < (CELULAR / ANDROID) ==== */
 window.addEventListener("popstate", () => {
   exitPage();
 });
 
-// Animación de aparición suave
+/* ==== Animación de aparición suave ==== */
 const sections = document.querySelectorAll("section");
-
 const observer = new IntersectionObserver(entries => {
   entries.forEach(entry => {
     if(entry.isIntersecting){
@@ -43,15 +36,15 @@ sections.forEach(sec => {
   sec.style.transition = "all 0.8s ease";
   observer.observe(sec);
 });
-/*BOTÓN*/
-const Btn = document.getElementById("Btn");
 
+/* ==== BOTÓN ====*/
+const Btn = document.getElementById("Btn");
 if (Btn) {
   Btn.addEventListener("click", () => {
     document.body.classList.add("btn");
 
     setTimeout(() => {
-      window.location.href = "index.html";
+      window.location.href = "autor.html";
     }, 750);
   });
 }
