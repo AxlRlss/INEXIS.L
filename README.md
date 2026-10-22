@@ -97,5 +97,6 @@ Discord: https://discord.com/invite/b7RujCpbN4
 ## ✦ Filosofía
 
 Cada historia, un universo.
+Si una historia no incomoda un poco, probablemente no es verdadera.
 
 **𝑨𝒙𝒍𝑹𝒍𝒔𝒔 𝒆𝒔𝒄𝒓𝒊𝒃𝒆. 𝑰𝑵𝑬𝑿𝑰𝑺 𝒎𝒂𝒕𝒆𝒓𝒊𝒂𝒍𝒊𝒛𝒂..**
