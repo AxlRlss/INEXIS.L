@@ -4,7 +4,7 @@ Página oficial de enlaces de AxlRlss, creador del universo INEXIS. Biolink resp
 
 # INEXIS
 
-## ✦ Sobre el proyecto
+## ⟐ Sobre el proyecto
 
 INEXIS es un universo creativo y literario desarrollado por AxlRlss, autor de lo bello y lo crudo. Nace como un espacio donde las historias trascienden las páginas y adquieren una identidad visual, emocional y narrativa propia.
 
@@ -14,7 +14,7 @@ Su diseño busca transmitir la esencia de INEXIS mediante una estética oscura, 
 
 **𝑨𝒙𝒍𝑹𝒍𝒔𝒔 𝒆𝒔𝒄𝒓𝒊𝒃𝒆. 𝑰𝑵𝑬𝑿𝑰𝑺 𝒎𝒂𝒕𝒆𝒓𝒊𝒂𝒍𝒊𝒛𝒂.**
 
-## ✦ Características
+## ⟐ Características
 
 - Diseño responsive adaptable a dispositivos móviles, tablets y escritorio.
 - Identidad visual alineada con el universo creativo de INEXIS.
@@ -31,7 +31,7 @@ Su diseño busca transmitir la esencia de INEXIS mediante una estética oscura, 
 - Sin base de datos ni sistema de cuentas de usuario.
 - Sin carrito de compras ni sistema de pagos integrado.
 
-## ✦ Universos literarios
+## ⟐ Universos literarios
 
 La Biolink permite acceder a los diferentes proyectos narrativos que forman parte del universo creativo de AxlRlss.
 
@@ -43,13 +43,13 @@ La Biolink permite acceder a los diferentes proyectos narrativos que forman part
 
 Cada universo cuenta con recursos gráficos y tratamientos visuales propios, manteniendo la coherencia estética general de INEXIS.
 
-## ✦ Tecnologías
+## ⟐ Tecnologías
 
 - **HTML5:** estructura y organización del contenido.
 - **CSS3:** diseño visual, distribución responsive, fondos gráficos, efectos y animaciones.
 - **JavaScript:** interacciones y animaciones de entrada de los elementos de la página.
 
-## ✦ Estructura del proyecto
+## ⟐ Estructura del proyecto
 
 ```text
 INEXIS.L/
@@ -78,13 +78,15 @@ INEXIS.L/
     └── lirios-bg.png
 ```
 
-## ✦ Identidad del proyecto
+## ⟐ Identidad del proyecto
 
 INEXIS no busca ser solamente una página de enlaces. Su propósito es construir una entrada visual coherente con el universo de AxlRlss, donde cada obra tenga una presencia reconocible y cada elemento contribuya a la experiencia del visitante.
 
 La combinación de diseño, narrativa y recursos visuales permite transformar una página sencilla en una extensión de la identidad creativa del autor.
 
-## ✦ Autor
+¡Así es! Esto no termina aquí.
+
+## ⟐ Autor
 
 **AxlRlss**  
 Autor de lo bello y lo crudo.  
@@ -94,9 +96,5 @@ Instagram: https://www.instagram.com/axlrlss/
 TikTok: https://www.tiktok.com/@axlrls  
 Discord: https://discord.com/invite/b7RujCpbN4
 
-## ✦ Filosofía
-
-Cada historia, un universo.
-Si una historia no incomoda un poco, probablemente no es verdadera.
 
 **𝑨𝒙𝒍𝑹𝒍𝒔𝒔 𝒆𝒔𝒄𝒓𝒊𝒃𝒆. 𝑰𝑵𝑬𝑿𝑰𝑺 𝒎𝒂𝒕𝒆𝒓𝒊𝒂𝒍𝒊𝒛𝒂..**
