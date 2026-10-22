@@ -2,7 +2,6 @@
 
 Página oficial de enlaces de AxlRlss, creador del universo INEXIS. Biolink responsive desarrollado con HTML5, CSS3 y JavaScript, diseñado para centralizar las redes sociales del autor y ofrecer acceso visual a sus universos literarios mediante una experiencia digital inmersiva.
 
-# INEXIS
 
 ## ⟐ Sobre el proyecto
 
