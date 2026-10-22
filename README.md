@@ -69,6 +69,13 @@ INEXIS.L/
     ├── arista.png
     ├── seis.png
     └── dejemonos-endulzar.png
+│
+└── autor
+    ├── autor.css
+    ├── autor.html
+    ├── autor.js
+    ├── axl.png
+    └── lirios-bg.png
 ```
 
 ## ✦ Identidad del proyecto
